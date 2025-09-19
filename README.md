@@ -1,16 +1,30 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-<!--
-**guntinue/guntinue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 🐽, i'm KEONWOO LEE
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guntinue)](https://github.com/anuraghazra/github-readme-stats)
+
+### I'm not ready to develop yet, but I'm learning hard. 
+### I'll show you my abilities soon.🫡
+
+
+
+
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rjssn93@gmail.com)](mailto:rjssn93@gmail.com)
+	
+
+
+
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
+
+
+
