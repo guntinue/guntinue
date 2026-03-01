@@ -17,7 +17,7 @@
 #### I'll show you my abilities soon.🫡
 
 <br>
-<img width="2456" height="1349" alt="MonSoon Architecture" src="https://github.com/user-attachments/assets/0e000eda-197f-4f41-b3c2-b858883d59bb" />
+<img width="1280" height="840" alt="MonSoon Architecture" src="https://github.com/user-attachments/assets/0e000eda-197f-4f41-b3c2-b858883d59bb" />
 
 <br>
 
