@@ -9,8 +9,7 @@
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guntinue)](https://github.com/guntinue/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guntinue&show_icons=true&theme=transparent)
 #### I'm not ready to develop yet, but I'm learning hard. 
 
 
