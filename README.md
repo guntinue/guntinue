@@ -28,15 +28,15 @@
           <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
           <img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-f7f7f7?style=for-the-badge&logo=Amazon AWS&logoColor=f89400">
           <br/></div>
-    </div> sigma-five
+    </div> 
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-     <div style="text-align: left;"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=guntinue&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guntinue&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
-           /> </div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=guntinue&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
+         /> <br/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guntinue&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
+           /> </div> 
     </div>
+    
     
 <br>
 
@@ -55,7 +55,6 @@
  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2> <br> 
  <a href=mailto:rjssn93@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:rjssn93@gmail.com"> </a>
  <a href="https://www.instagram.com/guntinue.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
- <a href=guntinue.dev> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=guntinue.dev"> </a>
 
 </div>
 
@@ -64,3 +63,5 @@
     
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
+
