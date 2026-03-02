@@ -2,11 +2,18 @@
 
 <div align=center>
 
- ## Hi there 🐽, i'm KEONWOO LEE
+ ## Hi there 🫡, i'm KEONWOO LEE
 
 </div>
 
+#### From Hardware Maintenance to Software Architecture ⚙️
+
+Backend Developer | DevOps Enthusiast
+
+I build robust backend systems and love automating infrastructure.
+
 <br>
+
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Studying.. </h2> <br> 
 <div style="text-align: center;"> 
@@ -64,14 +71,8 @@
     
     
 <br>
-
-#### From Hardware Maintenance to Software Architecture ⚙️
-
-Backend Developer | DevOps Enthusiast
-
-I build robust backend systems and love automating infrastructure.
-
 <br>
+
 <img width="1280" height="840" alt="MonSoon Architecture" src="https://github.com/user-attachments/assets/0e000eda-197f-4f41-b3c2-b858883d59bb" />
 
 <br>
@@ -83,9 +84,5 @@ I build robust backend systems and love automating infrastructure.
  <a href="https://www.instagram.com/guntinue.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 </div>
-
-
-
-    
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
