@@ -24,7 +24,7 @@
           <br/>
           <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
           <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
-          <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
+          <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=plastic&amp;logo=Tailwind CSS&amp;logoColor=white">
           <img alt="Vue" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
           <img alt="AWS" src="https://img.shields.io/badge/Amazon AWS-f7f7f7?style=for-the-badge&logo=Amazon AWS&logoColor=f89400">
           <br/></div>
