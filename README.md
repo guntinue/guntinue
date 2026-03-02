@@ -33,8 +33,8 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-     <div style="text-align: left;"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=guntinue&bg_color=180,000000,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guntinue&layout=compact&bg_color=180,000000,00000000&title_color=000000&text_color=000000"
+     <div style="text-align: left;"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=guntinue&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guntinue&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
            /> </div>
     </div>
     
@@ -61,6 +61,6 @@
 
 
 
-
+    
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
