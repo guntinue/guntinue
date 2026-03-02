@@ -26,7 +26,7 @@
           <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
           <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
           <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
-          <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=Kubernetes&Color=white">
+          <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&Color=white">
           <br/>
           <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white">
           <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-spuare&logo=Postman&logoColor=white">
